@@ -12,9 +12,13 @@ Urdu, with its rich morphology, unique Nastaliq script, and agglutinative charac
 This repository offers a foundational toolkit for working with Urdu text data, covering:
 
 📊 Exploratory Data Analysis (EDA): Understand text characteristics.
+
 🧹 Text Preprocessing: Clean and prepare Urdu text.
+
 🧠 NLP Techniques: Apply core linguistic processing.
+
 📈 Visualization: Generate insights through plots and word clouds.
+
 
 ---
 
