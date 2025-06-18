@@ -27,29 +27,34 @@ This repository offers a foundational toolkit for working with Urdu text data, c
 ---
 
 ## ✨ Key Features & Functionalities
-Urdu Text Normalization: Handles variations in Urdu characters and script.
-Punctuation & Stop Word Removal: Cleans text for better analysis.
-Tokenization: Breaks down sentences into individual words.
-Word & N-gram Frequency Analysis: Identifies most common terms and phrases.
-Word Cloud Generation: Visualizes high-frequency terms.
-Interactive Jupyter Notebook: Step-by-step guide for performing analysis.
+• **Urdu Text Normalization** – Handles variations in Urdu characters and script  
+• **Punctuation & Stop Word Removal** – Cleans text for better analysis  
+• **Tokenization** – Breaks down sentences into individual words  
+• **Word & N-gram Frequency Analysis** – Identifies most common terms and phrases  
+• **Word Cloud Generation** – Visualizes high-frequency terms  
+• **Interactive Jupyter Notebook** – Step-by-step guide for performing analysis  
 
 ---
 
 ## 💡 Insights & Value
-Improved Data Quality: Learn techniques to clean and prepare raw Urdu text.
-Text Pattern Discovery: Identify prevalent themes and vocabulary in Urdu corpora.
-Foundation for NLP: Provides a starting point for advanced Urdu NLP tasks (e.g., sentiment analysis, topic modeling).
-Resource for Researchers: A practical example for anyone delving into Urdu computational linguistics.
+• **Improved Data Quality** – Learn techniques to clean and prepare raw Urdu text  
+• **Text Pattern Discovery** – Identify prevalent themes and vocabulary in Urdu corpora  
+• **Foundation for NLP** – Provides a starting point for advanced Urdu NLP tasks (e.g., sentiment analysis, topic modeling)  
+• **Resource for Researchers** – A practical example for anyone delving into Urdu computational linguistics
 
 ---
 
 ## 🛠️ Tools & Technologies
 Python 3.x
+
 Jupyter Notebook
+
 Pandas
+
 NumPy
+
 NLTK
+
 Matplotlib & Seaborn
 
 ---
