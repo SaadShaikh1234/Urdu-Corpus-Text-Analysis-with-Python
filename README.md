@@ -36,6 +36,9 @@ This repository offers a foundational toolkit for working with Urdu text data, c
 • **Tokenization** – Breaks down sentences into individual words  
 • **Word & N-gram Frequency Analysis** – Identifies most common terms and phrases  
 • **Word Cloud Generation** – Visualizes high-frequency terms  
+• **Text Normalization** – Unifies script inconsistencies (e.g., Arabic vs Urdu characters)  
+• **TF-IDF Vectorization** – Highlights contextually important terms in the corpus  
+• **POS Tagging & Named Entity Recognition (NER)** – Linguistic annotation for parts of speech and entities  
 • **Interactive Jupyter Notebook** – Step-by-step guide for performing analysis  
 
 ---
